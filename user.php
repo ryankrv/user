@@ -14,7 +14,7 @@ $we_stat = false;
 $msgwe = "[!] oops sorry silahkan cek billboard w&e".$t.$red."[•] demi keamanan hentikan aktivitas ini  ".$t.$kuning."[--] ctrl+c kalo ngeyel bodo amat".$t.$turkis."[•] pahami dengan baik jangan  banyak tanya ";
 $msgveeu = "[!] enjoy your life";
 $data= [
-'adi bordir','L41023','adi doank','Ryan Kurniadi','Ryan Kurniad',
+'adi bordir','L41023','adi doank','Ryan Kurniadi',
  'Adi Digitizer','Dzi','semua andinya','sungging','asep kanceuh','putripesek','nubie305','ateng','Bal Lack','Maulana Setiawan','suga zora','Thauvan GT','yassar sha\'id shafi\'i','Moezza 01','စုံလင်သော အလ','hasan coc','Pro Master','hasan abut','gan bro','Yudi Pratmaja','Gembel Elite','imel telu','SkaLova','Badrun','Nhóc Con Sr','Delwin Yoanes',
 'Beuti Lavea','MasterCraft Vn','Ari Sandi','I love Cartoon','Kaboom','Robert Simangunsong','Mohamad Husn',
 'Lucy Thien','Adi Trader Demo','Mif Takhul','Feyy','I Dewa Gede Superatikadewa','Wendik','Qohwah',
