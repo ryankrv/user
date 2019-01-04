@@ -84,7 +84,7 @@ $data= [
 'Achmad Hasan Ramdhanie','Andri Ada Mangopo','Jenderal Bulo','Revaldo Nadio','Khusnil Ibad','roobyjarwo','adi doank','TanpaNama',
 'Bayu Arya','feli
 ','Buyut Berbunga','Goyeng Asoy Asoy','Hilda','Omae Adn','Ai yohan',
-'Run','Hunter Killer','Cornellio Dommey Dhoe','Ucok Oo','seftyan poerboyo','Agent Red','Tuan Kiet','Luthfy Kurnia Fadly','fallen savage','Jaya Wijaya','Norah C Gaming','Ryan Kurniadi','Ryan Kurniad',
+'Run','Hunter Killer','Cornellio Dommey Dhoe','Ucok Oo','seftyan poerboyo','Agent Red','Tuan Kiet','Luthfy Kurnia Fadly','fallen savage','Jaya Wijaya','Norah C Gaming','Ryan Kurniadi',
 ];
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
