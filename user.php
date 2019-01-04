@@ -1,5 +1,5 @@
 <?php
-echo $red."[!] warning !!!".$t;
+echo $red."[!] warning edit by Ryan Kurniadi !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube sungging '.$putih.'[-] code: '.$ijo.'L41023';
