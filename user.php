@@ -87,4 +87,4 @@ $data= [
 'Run','Hunter Killer','Cornellio Dommey Dhoe','Ucok Oo','seftyan poerboyo','Agent Red','Tuan Kiet','Luthfy Kurnia Fadly','fallen savage','Jaya Wijaya','Norah C Gaming',
 ];
 $toto = ['tes',];
-$ydnews = ['tes','adidoank','Ryan Kurniadi',];
+$ydnews = ['tes','Ryan Kurniadi',];
